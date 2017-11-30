@@ -3,8 +3,13 @@ body {
 }
 
 p {
+    text-align: justify;
     position: absolute;
     left: 25%;
     right: 25%;
     top: 50%
+}
+
+.foto-perfil {
+    position: relative;
 }
