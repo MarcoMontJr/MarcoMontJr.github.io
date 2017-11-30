@@ -1,15 +1,72 @@
 body {
     background-image: url("../_Imagens/_Index.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 p {
     text-align: justify;
     position: absolute;
-    left: 25%;
+    left: 27%;
     right: 25%;
     top: 50%
 }
 
-.foto-perfil {
-    position: relative;
+i {
+    font-size: 1vw;
+}
+
+.git {
+    background-image: url("../_Imagens/_Octocat.png");
+    text-indent: -9999%;
+    position: absolute;
+    height: 10%;
+    width: 6%;
+    left: 28%;
+    right: 25%;
+    top: 80%;
+}
+
+.pen {
+    background-image: url("../_Imagens/_Pen.png");
+    text-indent: -9999%;
+    position: absolute;
+    height: 10%;
+    width: 6%;
+    left: 38%;
+    right: 25%;
+    top: 80%;
+}
+
+.free {
+    background-image: url("../_Imagens/_Free.png");
+    text-indent: -9999%;
+    position: absolute;
+    height: 10%;
+    width: 6%;
+    left: 48%;
+    right: 25%;
+    top: 80%;
+}
+
+.in {
+    background-image: url("../_Imagens/_In.png");
+    text-indent: -9999%;
+    position: absolute;
+    height: 10%;
+    width: 6%;
+    left: 58%;
+    right: 25%;
+    top: 80%;
+}
+
+.face {
+    background-image: url("../_Imagens/_Face.png");
+    text-indent: -9999%;
+    position: absolute;
+    height: 10%;
+    width: 6%;
+    left: 68%;
+    right: 25%;
+    top: 80%;
 }
