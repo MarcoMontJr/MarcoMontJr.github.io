@@ -1,0 +1,10 @@
+body {
+    background-image: url("../_Imagens/_Index.png");
+}
+
+p {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 50%
+}
