@@ -1,0 +1,12 @@
+http://ap.imagensbrasil.org/images/2017/12/01/_Face.png
+http://ap.imagensbrasil.org/images/2017/12/01/_FaceColored.png
+http://ap.imagensbrasil.org/images/2017/12/01/_Favicon.png
+http://ap.imagensbrasil.org/images/2017/12/01/_Free.png
+http://ap.imagensbrasil.org/images/2017/12/01/_FreeColored.png
+http://ap.imagensbrasil.org/images/2017/12/01/_In.png
+http://ap.imagensbrasil.org/images/2017/12/01/_InColored.png
+http://ap.imagensbrasil.org/images/2017/12/01/_Index.png
+http://ap.imagensbrasil.org/images/2017/12/01/_Octocat.png
+http://ap.imagensbrasil.org/images/2017/12/01/_OctocatColored.png
+http://ap.imagensbrasil.org/images/2017/12/01/_Pen.png
+http://ap.imagensbrasil.org/images/2017/12/01/_PenColored.png

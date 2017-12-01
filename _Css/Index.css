@@ -1,5 +1,5 @@
 body {
-    background-image: url("../_Imagens/_Index.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_Index.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -17,7 +17,7 @@ i {
 }
 
 .git {
-    background-image: url("../_Imagens/_Octocat.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_Octocat.png");
     text-indent: -9999%;
     position: absolute;
     height: 10%;
@@ -28,11 +28,11 @@ i {
 }
 
 .git:hover {
-    background-image: url("../_Imagens/_OctocatColored.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_OctocatColored.png");
 }
 
 .pen {
-    background-image: url("../_Imagens/_Pen.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_Pen.png");
     text-indent: -9999%;
     position: absolute;
     height: 10%;
@@ -43,11 +43,11 @@ i {
 }
 
 .pen:hover {
-    background-image: url("../_Imagens/_PenColored.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_PenColored.png");
 }
 
 .free {
-    background-image: url("../_Imagens/_Free.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_Free.png");
     text-indent: -9999%;
     position: absolute;
     height: 10%;
@@ -58,11 +58,11 @@ i {
 }
 
 .free:hover {
-    background-image: url("../_Imagens/_FreeColored.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_FreeColored.png");
 }
 
 .in {
-    background-image: url("../_Imagens/_In.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_In.png");
     text-indent: -9999%;
     position: absolute;
     height: 10%;
@@ -73,11 +73,11 @@ i {
 }
 
 .in:hover {
-    background-image: url("../_Imagens/_InColored.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_InColored.png");
 }
 
 .face {
-    background-image: url("../_Imagens/_Face.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_Face.png");
     text-indent: -9999%;
     position: absolute;
     height: 10%;
@@ -88,5 +88,5 @@ i {
 }
 
 .face:hover {
-    background-image: url("../_Imagens/_FaceColored.png");
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_FaceColored.png");
 }
