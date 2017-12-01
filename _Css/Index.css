@@ -13,7 +13,7 @@ p {
 }
 
 i {
-    font-size: 1vw;
+    font-size: 0.8vw;
 }
 
 .git {
@@ -27,6 +27,10 @@ i {
     top: 80%;
 }
 
+.git:hover {
+    background-image: url("../_Imagens/_OctocatColored.png");
+}
+
 .pen {
     background-image: url("../_Imagens/_Pen.png");
     text-indent: -9999%;
@@ -36,6 +40,10 @@ i {
     left: 38%;
     right: 25%;
     top: 80%;
+}
+
+.pen:hover {
+    background-image: url("../_Imagens/_PenColored.png");
 }
 
 .free {
@@ -49,6 +57,10 @@ i {
     top: 80%;
 }
 
+.free:hover {
+    background-image: url("../_Imagens/_FreeColored.png");
+}
+
 .in {
     background-image: url("../_Imagens/_In.png");
     text-indent: -9999%;
@@ -60,6 +72,10 @@ i {
     top: 80%;
 }
 
+.in:hover {
+    background-image: url("../_Imagens/_InColored.png");
+}
+
 .face {
     background-image: url("../_Imagens/_Face.png");
     text-indent: -9999%;
@@ -69,4 +85,8 @@ i {
     left: 68%;
     right: 25%;
     top: 80%;
+}
+
+.face:hover {
+    background-image: url("../_Imagens/_FaceColored.png");
 }
