@@ -22,7 +22,7 @@ i {
     position: absolute;
     height: 10%;
     width: 6%;
-    left: 28%;
+    left: 18%;
     right: 25%;
     top: 80%;
 }
@@ -37,7 +37,7 @@ i {
     position: absolute;
     height: 10%;
     width: 6%;
-    left: 38%;
+    left: 28%;
     right: 25%;
     top: 80%;
 }
@@ -52,7 +52,7 @@ i {
     position: absolute;
     height: 10%;
     width: 6%;
-    left: 48%;
+    left: 38%;
     right: 25%;
     top: 80%;
 }
@@ -67,7 +67,7 @@ i {
     position: absolute;
     height: 10%;
     width: 6%;
-    left: 58%;
+    left: 48%;
     right: 25%;
     top: 80%;
 }
@@ -82,11 +82,41 @@ i {
     position: absolute;
     height: 10%;
     width: 6%;
-    left: 68%;
+    left: 58%;
     right: 25%;
     top: 80%;
 }
 
 .face:hover {
     background-image: url("http://ap.imagensbrasil.org/images/2017/12/01/_FaceColored.png");
+}
+
+.port {
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/09/_Port.png");
+    text-indent: -9999%;
+    position: absolute;
+    height: 10.6%;
+    width: 6%;
+    left: 68%;
+    right: 25%;
+    top: 80%;
+}
+
+.port:hover {
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/09/_PortColored.png");
+}
+
+.blog {
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/09/_Blog.png");
+    text-indent: -9999%;
+    position: absolute;
+    height: 10.6%;
+    width: 6%;
+    left: 78%;
+    right: 25%;
+    top: 80%;
+}
+
+.blog:hover {
+    background-image: url("http://ap.imagensbrasil.org/images/2017/12/09/_BlogColored.png");
 }

@@ -10,3 +10,7 @@ http://ap.imagensbrasil.org/images/2017/12/01/_Octocat.png
 http://ap.imagensbrasil.org/images/2017/12/01/_OctocatColored.png
 http://ap.imagensbrasil.org/images/2017/12/01/_Pen.png
 http://ap.imagensbrasil.org/images/2017/12/01/_PenColored.png
+http://ap.imagensbrasil.org/images/2017/12/09/_Blog.png
+http://ap.imagensbrasil.org/images/2017/12/09/_BlogColored.png
+http://ap.imagensbrasil.org/images/2017/12/09/_Port.png
+http://ap.imagensbrasil.org/images/2017/12/09/_PortColored.png
